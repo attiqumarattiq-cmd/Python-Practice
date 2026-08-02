@@ -7,3 +7,7 @@ age_in_words = "Twenty Five"        # Assigned to strings
 x, y, z = 10, 20, 30
 a = b = c = 0
 
+print(age)
+print(age_in_words)
+print(x, y, z)
+print(a, b, c)
