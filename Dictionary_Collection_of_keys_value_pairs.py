@@ -28,3 +28,7 @@ d.update(Y=20, z=30)
 print(d)
 
 #=====================================================
+# get("name"): Returns the value of the specified keys
+print(a.get("list"))
+
+
