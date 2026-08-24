@@ -1,7 +1,0 @@
-
-marks = int(input("Enter your marks(0-100): ))
-
-if marks >= 90:
-    print("Grade A")
-elif marks >= 80 && marks < 90:
-    print("Grade B")
