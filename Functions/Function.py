@@ -1,0 +1,8 @@
+
+def calculate_area(radius):
+    import math
+    return math.pi * (radius * radius)
+
+
+rad = 1
+print(calculate_area(rad))
