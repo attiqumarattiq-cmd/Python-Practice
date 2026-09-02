@@ -1,0 +1,21 @@
+
+list = []
+print("===========================================")
+print(list)
+print("===========================================")
+list.append(12)
+list.append("Fast University")
+list.append(34.67)
+list.append("^&*$")
+list.append("qwerty")
+print("===========================================")
+print(list)
+list.append("qwerty")
+print("===========================================")
+print(list)
+list2 = [23,45,56]
+list.append(list2)
+print("===========================================")
+print("Using insert function: ")
+list.insert(3, "that")
+print(list)
