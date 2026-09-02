@@ -6,5 +6,6 @@ list1.sort()
 print(list1)
 
 list2 = [ "ZEBRA", "HELICOPTER", "Tarzen"]
+
 list2.sort()
 print(list2)
