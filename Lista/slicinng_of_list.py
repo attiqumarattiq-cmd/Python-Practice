@@ -6,5 +6,7 @@ print(pr[2:])
 print(pr[:4])
 print(pr[2:4])
 print(pr[1::2])
+print(pr[::-1])
+
 
 #  lst[start:stop:indexjump]

@@ -1,9 +1,4 @@
 
-list = [1,"Education", "lust", 5.98, "$%", 'list']
-
-print(list)
-print(list[-1])
-print(list[-2])
-print(list[-3])
-print(list[-4])
-print(list[-5])
+list = ['F', 'A', 'S', 'T', '-', 'N', 'U']
+print(list[::-6])
+print(list[-6:-1])
