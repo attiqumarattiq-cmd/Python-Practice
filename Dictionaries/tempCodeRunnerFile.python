@@ -1,0 +1,10 @@
+
+# Creating an empty Dictionary
+Dict1 = {}
+print(Dict1)
+
+# with dict() method
+Dict2 = dict({1: 'Eduaction', 2: 'For', 3: 'All'})
+print(Dict2)
+Dict3 = dict({(1, 'Education'), (2, 'For'), (3, 'All')})
+print(Dict3)
